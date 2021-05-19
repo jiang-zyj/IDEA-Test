@@ -15,7 +15,7 @@ public class TestGit {
     }
 
     public static String talkSth() {
-        return "I have a good job";
+        return "I have a good wife";
     }
 
 }

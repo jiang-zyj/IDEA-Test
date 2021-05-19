@@ -12,6 +12,7 @@ public class TestGit {
     public static void main(String[] args) {
         String sth = talkSth();
         System.out.println(sth);
+        System.out.println("i got hot_fix");
     }
 
     public static String talkSth() {

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="PushTest:war">
+    <output-path>$PROJECT_DIR$/PushTest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>PushTest</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="PushTest.war">
+      <element id="artifact" artifact-name="PushTest:war exploded" />
+    </root>
+  </artifact>
+</component>
